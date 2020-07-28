@@ -9,3 +9,5 @@
 	window.byeSpeaker = byeSpeaker;
 
 }) (window);
+
+//testing...1,2,3....
